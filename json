@@ -1,1 +1,1 @@
-{ "total": "500", "correct": "200", "incorrect": "300", "runningtest": "200", "scheduled": "100", "pending": "200" }
+{ "total": 500, "correct": 200, "incorrect": 300, "runningtest": 200, "scheduled": 100, "pending": 200 }
