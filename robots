@@ -1,0 +1,55 @@
+[{
+	"RobotName": "ARG-RB1",
+	"RobotStatus": "Offline"
+}, {
+	"RobotName": "AUSTRALIA-01",
+	"RobotStatus": "Online"
+}, {
+	"RobotName": "BangDev",
+	"RobotStatus": "Online"
+}, {
+	"RobotName": "BLR-DEV-APP-TEST-2",
+	"RobotStatus": "Offline"
+}, {
+	"RobotName": "DevRobot",
+	"RobotStatus": "Offline"
+}, {
+	"RobotName": "DUBAI-01",
+	"RobotStatus": "Online"
+}, {
+	"RobotName": "GBR-London-01",
+	"RobotStatus": "Online"
+}, {
+	"RobotName": "IND-Bangalore",
+	"RobotStatus": "Offline"
+}, {
+	"RobotName": "IOT-testing",
+	"RobotStatus": "Offline"
+}, {
+	"RobotName": "MOBILE_ANDROID",
+	"RobotStatus": "Offline"
+}, {
+	"RobotName": "PREPROD1",
+	"RobotStatus": "Online"
+}, {
+	"RobotName": "RaspberryRobot",
+	"RobotStatus": "Offline"
+}, {
+	"RobotName": "RB2",
+	"RobotStatus": "Offline"
+}, {
+	"RobotName": "SAU-MAKKAH-01",
+	"RobotStatus": "Online"
+}, {
+	"RobotName": "SWEDEN-01",
+	"RobotStatus": "Online"
+}, {
+	"RobotName": "USA-LA-01",
+	"RobotStatus": "Online"
+}, {
+	"RobotName": "VIRTROBO",
+	"RobotStatus": "Offline"
+}, {
+	"RobotName": "VIRTROBO2",
+	"RobotStatus": "Offline"
+}]
