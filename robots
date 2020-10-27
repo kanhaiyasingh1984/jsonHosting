@@ -5,11 +5,13 @@
         "SearchText": "ROBOTSERVER1;RB1 Fixed E2E ARG-RB1 Argentina Argentine Republic ARG Barranca Larga  LTE (1); ",
         "RobotLocation": "Barranca Larga",
         "RobotChannels": {
-            " LTE-M ": 1,
-            " LTE ": 1
+            "LTE-M": 1,
+            "LTE": 1
         },
         "Authenticated": true,
-        "Message": "UserId exists."
+        "Message": "UserId exists.",
+        "LocationX": "-38",
+        "LocationY": "-45"
     },
     {
         "RobotName": "AUSTRALIA-01",
@@ -17,10 +19,12 @@
         "SearchText": "ROBOTSERVER1;AUSTRALIA-01 Fixed E2E AUSTRALIA-01 Australia Australia AUS Sydney  2G (1); ",
         "RobotLocation": "Sydney",
         "RobotChannels": {
-            " 3G ": 2
+            "3G": 2
         },
         "Authenticated": true,
-        "Message": "UserId exists."
+        "Message": "UserId exists.",
+        "LocationX": "-38",
+        "LocationY": "-45"
     },
     {
         "RobotName": "BangDev",
@@ -28,11 +32,13 @@
         "SearchText": "ROBOTSERVER1;BANGDEV Fixed E2E BangDev India India (Republic of) IND Bangalore  LTE (2); ",
         "RobotLocation": "Bangalore",
         "RobotChannels": {
-            " LTE ": 2,
-            " 3G ": 4
+            "LTE": 2,
+            "3G": 4
         },
         "Authenticated": true,
-        "Message": "UserId exists."
+        "Message": "UserId exists.",
+        "LocationX": "-38",
+        "LocationY": "-45"
     },
     {
         "RobotName": "BLR-DEV-APP-TEST-2",
@@ -41,7 +47,9 @@
         "RobotLocation": "Bangalore",
         "RobotChannels": {},
         "Authenticated": true,
-        "Message": "UserId exists."
+        "Message": "UserId exists.",
+        "LocationX": "-38",
+        "LocationY": "-45"
     },
     {
         "RobotName": "DevRobot",
@@ -50,7 +58,9 @@
         "RobotLocation": "Bangalore",
         "RobotChannels": {},
         "Authenticated": true,
-        "Message": "UserId exists."
+        "Message": "UserId exists.",
+        "LocationX": "-38",
+        "LocationY": "-45"
     },
     {
         "RobotName": "DUBAI-01",
@@ -58,10 +68,12 @@
         "SearchText": "ROBOTSERVER1;DUBAI-01 Fixed E2E DUBAI-01 United Arab Emirates United Arab Emirates ARE Dubai  2G (1); ",
         "RobotLocation": "Dubai",
         "RobotChannels": {
-            " 3G ": 2
+            "3G": 2
         },
         "Authenticated": true,
-        "Message": "UserId exists."
+        "Message": "UserId exists.",
+        "LocationX": "-38",
+        "LocationY": "-45"
     },
     {
         "RobotName": "GBR-London-01",
@@ -69,10 +81,12 @@
         "SearchText": "ROBOTSERVER1;GBR-LONDON-01 Fixed E2E GBR-London-01 England UK of Great Britain and Northern Ireland GBR London  3G (1); ",
         "RobotLocation": "London",
         "RobotChannels": {
-            " 3G ": 2
+            "3G": 2
         },
         "Authenticated": true,
-        "Message": "UserId exists."
+        "Message": "UserId exists.",
+        "LocationX": "-38",
+        "LocationY": "-45"
     },
     {
         "RobotName": "IND-Bangalore",
@@ -80,10 +94,12 @@
         "SearchText": "ROBOTSERVER1;BANGALORE Fixed E2E IND-Bangalore India India (Republic of) IND Bangalore  LTE (2); ",
         "RobotLocation": "Bangalore",
         "RobotChannels": {
-            " LTE ": 1
+            "LTE": 1
         },
         "Authenticated": true,
-        "Message": "UserId exists."
+        "Message": "UserId exists.",
+        "LocationX": "-38",
+        "LocationY": "-45"
     },
     {
         "RobotName": "IOT-testing",
@@ -91,10 +107,12 @@
         "SearchText": "ROBOTSERVER1;IOT Fixed E2E IOT-testing Argentina Argentine Republic ARG Margarita  ",
         "RobotLocation": "Margarita",
         "RobotChannels": {
-            " LTE-M ": 1
+            "LTE-M": 1
         },
         "Authenticated": true,
-        "Message": "UserId exists."
+        "Message": "UserId exists.",
+        "LocationX": "-38",
+        "LocationY": "-45"
     },
     {
         "RobotName": "MOBILE_ANDROID",
@@ -102,11 +120,13 @@
         "SearchText": "ROBOTSERVER1;MOBILE_ANDROID Fixed E2E MOBILE_ANDROID Argentina Argentine Republic ARG Buenos Aires  ",
         "RobotLocation": "Buenos Aires",
         "RobotChannels": {
-            " LTE ": 1,
-            " 2G ": 2
+            "LTE": 1,
+            "2G": 2
         },
         "Authenticated": true,
-        "Message": "UserId exists."
+        "Message": "UserId exists.",
+        "LocationX": "-38",
+        "LocationY": "-45"
     },
     {
         "RobotName": "PREPROD1",
@@ -114,10 +134,12 @@
         "SearchText": "ROBOTSERVER1;PREPROD1 Fixed E2E PREPROD1 India India (Republic of) IND Bangalore  LTE (3); ",
         "RobotLocation": "Bangalore",
         "RobotChannels": {
-            " LTE ": 4
+            "LTE": 4
         },
         "Authenticated": true,
-        "Message": "UserId exists."
+        "Message": "UserId exists.",
+        "LocationX": "-38",
+        "LocationY": "-45"
     },
     {
         "RobotName": "RaspberryRobot",
@@ -125,10 +147,12 @@
         "SearchText": "ROBOTSERVER1;RASPBERRYROBOT Fixed E2E RaspberryRobot India India (Republic of) IND Bangalore  LTE (1); ",
         "RobotLocation": "Bangalore",
         "RobotChannels": {
-            " LTE ": 1
+            "LTE": 1
         },
         "Authenticated": true,
-        "Message": "UserId exists."
+        "Message": "UserId exists.",
+        "LocationX": "-38",
+        "LocationY": "-45"
     },
     {
         "RobotName": "RB2",
@@ -136,10 +160,12 @@
         "SearchText": "ROBOTSERVER1;RB2 Fixed E2E RB2 India India (Republic of) IND Bangalore  LTE (1); ",
         "RobotLocation": "Bangalore",
         "RobotChannels": {
-            " LTE-M ": 1
+            "LTE-M": 1
         },
         "Authenticated": true,
-        "Message": "UserId exists."
+        "Message": "UserId exists.",
+        "LocationX": "-38",
+        "LocationY": "-45"
     },
     {
         "RobotName": "SAU-MAKKAH-01",
@@ -147,10 +173,12 @@
         "SearchText": "ROBOTSERVER1;SAU-MAKKAH-01 Fixed E2E SAU-MAKKAH-01 Saudi Arabia Saudi Arabia (Kingdom of) SAU Makkah  3G (4); ",
         "RobotLocation": "Makkah",
         "RobotChannels": {
-            " 3G ": 4
+            "3G": 4
         },
         "Authenticated": true,
-        "Message": "UserId exists."
+        "Message": "UserId exists.",
+        "LocationX": "-38",
+        "LocationY": "-45"
     },
     {
         "RobotName": "SWEDEN-01",
@@ -158,10 +186,12 @@
         "SearchText": "ROBOTSERVER1;SWEDEN-01 Fixed E2E SWEDEN-01 Sweden Sweden SWE Stockholm  3G (1); ",
         "RobotLocation": "Stockholm",
         "RobotChannels": {
-            " 3G ": 2
+            "3G": 2
         },
         "Authenticated": true,
-        "Message": "UserId exists."
+        "Message": "UserId exists.",
+        "LocationX": "-38",
+        "LocationY": "-45"
     },
     {
         "RobotName": "USA-LA-01",
@@ -169,10 +199,12 @@
         "SearchText": "ROBOTSERVER1;USA-LA-01 Fixed E2E USA-LA-01 United States United States of America USA Los Angeles  3G (2); ",
         "RobotLocation": "Los Angeles",
         "RobotChannels": {
-            " 3G ": 2
+            "3G": 2
         },
         "Authenticated": true,
-        "Message": "UserId exists."
+        "Message": "UserId exists.",
+        "LocationX": "-38",
+        "LocationY": "-45"
     },
     {
         "RobotName": "VIRTROBO",
@@ -181,7 +213,9 @@
         "RobotLocation": "Bangalore",
         "RobotChannels": {},
         "Authenticated": true,
-        "Message": "UserId exists."
+        "Message": "UserId exists.",
+        "LocationX": "-38",
+        "LocationY": "-45"
     },
     {
         "RobotName": "VIRTROBO2",
@@ -189,9 +223,11 @@
         "SearchText": "ROBOTSERVER1;VIRTROBO2 Fixed E2E VIRTROBO2 India India (Republic of) IND Bangalore  LTE (1); ",
         "RobotLocation": "Bangalore",
         "RobotChannels": {
-            " LTE ": 1
+            "LTE": 1
         },
         "Authenticated": true,
-        "Message": "UserId exists."
+        "Message": "UserId exists.",
+        "LocationX": "-38",
+        "LocationY": "-45"
     }
 ]
