@@ -10,7 +10,7 @@
         },
         "Authenticated": true,
         "Message": "UserId exists.",
-        "LocationX": "-38",
+        "LocationX": "-40",
         "LocationY": "-45"
     },
     {
@@ -24,7 +24,7 @@
         "Authenticated": true,
         "Message": "UserId exists.",
         "LocationX": "-38",
-        "LocationY": "-45"
+        "LocationY": "-46"
     },
     {
         "RobotName": "BangDev",
