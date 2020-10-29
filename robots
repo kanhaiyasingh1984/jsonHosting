@@ -37,19 +37,19 @@
         },
         "Authenticated": true,
         "Message": "UserId exists.",
-        "LocationX": "-38",
-        "LocationY": "-45"
+        "LocationX": "13.073528",
+        "LocationY": "77.619845"
     },
     {
         "RobotName": "BLR-DEV-APP-TEST-2",
         "RobotStatus": "Offline",
-        "SearchText": "ROBOTSERVER1;BLRDEVTESTING_2 Fixed E2E BLR-DEV-APP-TEST-2 India India (Republic of) IND Bangalore  ",
+        "SearchText": "ROBOTSERVER1;BLRDEVTESTING_2 Fixed E2E BLR-DEV-APP-TEST-2 India India (Republic of) IND Bangalore  goa",
         "RobotLocation": "Bangalore",
         "RobotChannels": {},
         "Authenticated": true,
         "Message": "UserId exists.",
-        "LocationX": "-38",
-        "LocationY": "-45"
+        "LocationX": "15.494971",
+        "LocationY": "73.783271"
     },
     {
         "RobotName": "DevRobot",
