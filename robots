@@ -29,7 +29,7 @@
     {
         "RobotName": "BangDev",
         "RobotStatus": "Online",
-        "SearchText": "ROBOTSERVER1;BANGDEV Fixed E2E BangDev India India (Republic of) IND Bangalore  LTE (2); ",
+        "SearchText": "ROBOTSERVER1;BANGDEV Fixed E2E BangDev India India (Republic of) IND Bangalore  LTE (2); lavelleroad",
         "RobotLocation": "Bangalore",
         "RobotChannels": {
             "LTE": 2,
