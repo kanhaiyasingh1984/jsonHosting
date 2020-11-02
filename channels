@@ -17,12 +17,12 @@
    {
       "name":"ARG-Buenos Aires 6.LTE_1",
       "status":"Available",
-      "type":"LTE"
+      "type":"GSM"
    },
    {
       "name":"ARG-Buenos Aires 4.LTE_1",
       "status":"Available",
-      "type":"LTE"
+      "type":"GSM"
    },
    {
       "name":"ARG-Buenos Aires 5.LTE_1",
